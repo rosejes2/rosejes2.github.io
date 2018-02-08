@@ -1,0 +1,29 @@
+#div1 {
+	background-color:purple;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:-1;
+	font-size: 3em;
+  	font-family: "adobe-garamond-pro";
+}
+
+#netherlands-wrapper {
+	position:relative;
+	height:100%;
+}
+
+#div-invisible {
+	visibility: hidden;
+	font-size: 3em;
+}
+
+#div2 {
+	background-color: gray;
+	font-size:2em;
+}
+
+#div3 {
+	background-color: pink;
+	font-size:2em;
+}
